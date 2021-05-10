@@ -1,0 +1,88 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

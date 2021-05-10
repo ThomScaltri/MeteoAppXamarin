@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj": {}
+    "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj": {}
   },
   "projects": {
-    "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj": {
+    "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj",
+        "projectUniqueName": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj",
         "projectName": "MeteoAppSkeleton.Android",
-        "projectPath": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj",
-        "packagesPath": "/Users/galliva/.nuget/packages/",
-        "outputPath": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton.Android/obj/",
+        "projectPath": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/MeteoAppSkeleton.Android.csproj",
+        "packagesPath": "/Users/thom/.nuget/packages/",
+        "outputPath": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/galliva/.config/NuGet/NuGet.Config"
+          "/Users/thom/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid11.0"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/MeteoAppSkeleton.csproj": {
-                "projectPath": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/MeteoAppSkeleton.csproj"
+              "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/MeteoAppSkeleton.csproj": {
+                "projectPath": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/MeteoAppSkeleton.csproj"
               }
             }
           }
@@ -48,17 +48,17 @@
         }
       }
     },
-    "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/MeteoAppSkeleton.csproj": {
+    "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/MeteoAppSkeleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/MeteoAppSkeleton.csproj",
+        "projectUniqueName": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/MeteoAppSkeleton.csproj",
         "projectName": "MeteoAppSkeleton",
-        "projectPath": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/MeteoAppSkeleton.csproj",
-        "packagesPath": "/Users/galliva/.nuget/packages/",
-        "outputPath": "/Users/galliva/Desktop/E0 MeteoAppXamarinFormsSkeleton/MeteoAppSkeleton/obj/",
+        "projectPath": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/MeteoAppSkeleton.csproj",
+        "packagesPath": "/Users/thom/.nuget/packages/",
+        "outputPath": "/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/galliva/.config/NuGet/NuGet.Config"
+          "/Users/thom/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -82,11 +82,31 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.514, )"
+            },
+            "Microsoft.Net.Http": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -95,6 +115,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

@@ -1,10 +1,23 @@
-﻿using MeteoAppSkeleton.Views;
+﻿using Acr.UserDialogs;
+using MeteoAppSkeleton.Views;
 using Xamarin.Forms;
 
 namespace MeteoAppSkeleton
 {
     public partial class App : Application
     {
+        private static TestDatabase database;
+
+        public static TestDatabase Database
+        {
+            get
+            {
+                if (database == null)
+                    database = new TestDatabase();
+                return database;
+            }
+        }
+
         public App()
         {
             InitializeComponent();
