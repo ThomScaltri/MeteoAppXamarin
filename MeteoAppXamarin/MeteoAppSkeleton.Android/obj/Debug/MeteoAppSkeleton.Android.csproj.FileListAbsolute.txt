@@ -1201,3 +1201,4 @@
 /Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/res/drawable/supsi.png
 /Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/androidx/jl/7963d10f-f029-4b51-99e6-0d4e35da60be.jar
 /Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/androidx/proguard/773b4b08-f77c-4acd-ad88-f92d042db73e.cfg
+/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/res/drawable/gps.png

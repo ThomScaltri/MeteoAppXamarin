@@ -38,33 +38,17 @@ namespace MeteoAppSkeleton.ViewModels
             _entries.Add(curLocation);
         }
 
-        /*private async Task<Entry> getGpsWeather()
-        {
-
-            var locator = CrossGeolocator.Current;
-            locator.DesiredAccuracy=50;
-            var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
-            var entry = await HttpService.GetWeatherAsync(position.Latitude.ToString() , position.Longitude.ToString());
-            
-            return entry;
-        }*/
-
 
         async void GetLocation()
         {
             var locator = CrossGeolocator.Current;
-
             var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
 
             Task<Entry> task = HttpService.GetWeatherAsync(position.Latitude, position.Longitude);
             var gpsloc = await task;
-            //gpsloc.Name = "Current location";
+            gpsloc.Name = gpsloc.Name + " (GPS)";
             Entries.RemoveAt(0);
             Entries.Insert(0, gpsloc);
         }
-
-
-
-
     }
 }

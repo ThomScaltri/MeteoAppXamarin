@@ -25,6 +25,8 @@ com.google.android.material.tabs.TabLayout;/Users/thom/Desktop/RepoMeteoAppXamar
 com.google.android.material.tabs.TabLayout;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/51/jl/res/layout/tabbar.xml
 corners;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/1/jl/res/drawable/roundedbg.xml
 corners;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/1/jl/res/drawable/roundedbgdark.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/51/jl/res/layout/flyoutcontent.xml
+crc64720bb2db43a66fe9.FormsViewPager;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/51/jl/res/layout/rootlayout.xml
 declare-styleable;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/1/jl/res/values/attrs.xml
 declare-styleable;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/51/jl/res/values/attrs.xml
 external-cache-path;/Users/thom/Desktop/RepoMeteoAppXamarin/MeteoAppXamarin/MeteoAppXamarin/MeteoAppSkeleton.Android/obj/Debug/lp/50/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml

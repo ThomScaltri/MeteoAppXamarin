@@ -21,6 +21,17 @@ namespace MeteoAppSkeleton
             database.CreateTableAsync<Entry>().Wait();
         }
 
+        public bool IsPresent(Entry e)
+        {
+            bool found=false;
+            foreach (Entry entry in GetItemsAsync().Result)
+            {
+                if (entry.Name.Equals(e.Name))
+                    found=true;
+            }
+            return found;
+        }
+
         /*
          * Ritorna una lista con tutti gli items.
          */

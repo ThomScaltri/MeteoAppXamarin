@@ -34,16 +34,26 @@ namespace MeteoAppSkeleton.Views
             if (pResult.Ok && !string.IsNullOrWhiteSpace(pResult.Text))
             {
                 var location = new Models.Entry();
-                location.Name= pResult.Text.ToUpper();
-
-                //Adding location on DB
-                _ = App.Database.InsertItemAsync(location);
+                location.Name = pResult.Text.ToUpper();
 
                 location = await HttpService.GetWeatherAsync(location.Name);
-                ((MeteoListViewModel)BindingContext).addEntry(location);
+                    if (location == null)
+                    {
+                        _ = DisplayAlert("Location Not Found", "", "Close");
+                    }
 
-                
-                _ = DisplayAlert("Location Added","", "Close");
+                    else
+                    {
+                        if(App.Database.IsPresent(location))
+                            _ = DisplayAlert("Location Already exist", "", "Close");
+                        else
+                        {
+                            //Adding location on DB
+                            _ = App.Database.InsertItemAsync(location);
+                            ((MeteoListViewModel)BindingContext).addEntry(location);
+                            _ = DisplayAlert("Location Added", "", "Close");
+                        }
+                    }
             }
         }
 
